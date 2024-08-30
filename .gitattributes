@@ -1,1 +1,1 @@
-Test/LargeData.bsa filter=lfs diff=lfs merge=lfs -text
+Skyrim/Test/LargeData.bsa filter=lfs diff=lfs merge=lfs -text
